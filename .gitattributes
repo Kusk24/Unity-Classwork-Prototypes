@@ -2,3 +2,5 @@
 *.mathematica linguist-detectable=false
 *.wl linguist-detectable=false
 
+*.wit linguist-detectable=false
+*.wlt linguist-detectable=false
